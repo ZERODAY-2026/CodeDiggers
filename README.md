@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DataMind: Talk to Your Data
 
 Ask questions about data in plain English. Gemma writes the SQL, Snowflake runs it,
@@ -70,3 +71,6 @@ execution (Snowflake), with validation at each step and evidence for every answe
 ## Licence
 
 See the LICENSE file.
+=======
+# CodeDiggers
+>>>>>>> af71f52aacd4b055079ca84795babdf9be9ae6a4
